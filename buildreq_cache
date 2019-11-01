@@ -1,0 +1,7 @@
+4.007
+perl(Sereal::Decoder)
+perl(Sereal::Encoder)
+perl(Sub::Uplevel)
+perl(Test::Deep::NoTest)
+perl(Test::LongString)
+perl(Test::Warn)
