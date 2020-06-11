@@ -1,7 +1,8 @@
-4.011
+4.012
 perl(Sereal::Decoder)
 perl(Sereal::Encoder)
 perl(Sub::Uplevel)
 perl(Test::Deep::NoTest)
 perl(Test::LongString)
+perl(Test::MemoryGrowth)
 perl(Test::Warn)

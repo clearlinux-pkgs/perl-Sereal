@@ -1,0 +1,4 @@
+Sereal::Decoder, Sereal::Encoder, and Sereal are inter-dependent. For best results, build them in that order!
+
+Allowing test failures due to:
+https://github.com/Sereal/Sereal/issues/229
