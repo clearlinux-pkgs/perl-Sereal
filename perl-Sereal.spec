@@ -4,7 +4,7 @@
 #
 Name     : perl-Sereal
 Version  : 4.018
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.018.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.018.tar.gz
 Summary  : 'Fast, compact, powerful binary (de-)serialization'
