@@ -1,7 +1,8 @@
-4.019
+4.020
 perl(Sereal::Decoder)
 perl(Sereal::Encoder)
 perl(Sub::Uplevel)
-perl(Test::Deep::NoTest)
+perl(Test::Deep)
+perl(Test::Differences)
 perl(Test::LongString)
 perl(Test::Warn)

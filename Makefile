@@ -1,5 +1,5 @@
 PKG_NAME := perl-Sereal
-URL = https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.019.tar.gz
+URL = https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.020.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
