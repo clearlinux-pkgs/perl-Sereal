@@ -4,7 +4,7 @@
 #
 Name     : perl-Sereal
 Version  : 4.023
-Release  : 25
+Release  : 26
 URL      : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.023.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.023.tar.gz
 Summary  : 'Fast, compact, powerful binary (de-)serialization'
