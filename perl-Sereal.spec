@@ -4,7 +4,7 @@
 #
 Name     : perl-Sereal
 Version  : 4.023
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.023.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-4.023.tar.gz
 Summary  : 'Fast, compact, powerful binary (de-)serialization'
@@ -92,4 +92,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Sereal.pm
+/usr/lib/perl5/*
