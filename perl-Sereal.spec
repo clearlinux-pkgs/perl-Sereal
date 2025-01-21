@@ -5,7 +5,7 @@
 #
 Name     : perl-Sereal
 Version  : 5.004
-Release  : 35
+Release  : 36
 URL      : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-5.004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Y/YV/YVES/Sereal-5.004.tar.gz
 Summary  : 'Fast, compact, powerful binary (de-)serialization'
